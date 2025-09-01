@@ -11,7 +11,8 @@ This project demonstrates a lightweight IT support ticket routing agent using Q-
 - Lightweight and reproducible without large datasets
 
 ## Demo / Usage
-1. Open the demo notebook: [`notebooks/demo_ticket_agent.ipynb`](notebooks/demo_ticket_agent.ipynb)  
+1. Open the demo notebook: [Demo Notebook](src/notebooks/demo_ticket_agent.ipynb)
+  
 2. Run the notebook to see  ticket assignments for sample tickets.  
 
 Example output:
